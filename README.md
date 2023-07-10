@@ -11,3 +11,12 @@ This is a simple Todo application built using Flutter framework and the BLoC pat
 - Archive completed tasks and move them to the "Archived Tasks" screen.
 - Delete tasks(by swipping left or right) from the application.
 - Switch between different screens using the bottom navigation bar.
+
+ ## Dependencies
+- Cupertino_icons: ^1.0.2
+- Bloc: ^8.1.2 :The BLoC state management library for Flutter.
+- Flutter_bloc: ^8.1.3 :Flutter-specific extensions and widgets for the BLoC library.
+- Sqflite: ^2.2.8+4
+- intl: ^0.18.1   
+  
+
